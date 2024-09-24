@@ -30,9 +30,11 @@ docker run --name jenkins-container -p 8080:8080 -p 50000:50000 -v jenkins_home:
 #### Pantallazo de la Ejecución del Contenedor Jenkins
 
 - **Contenedor docker ejecutando**
-![image](https://hackmd.io/_uploads/r1YPUilR0.png)
+![image](https://github.com/user-attachments/assets/43444925-e8f2-40c9-91a7-740c1916e898)
+
 - **Captura de jenkins funcionando**
-![image](https://hackmd.io/_uploads/ry7TUigAA.png)
+![image](https://github.com/user-attachments/assets/0a945c9c-5a91-4d0c-a536-32f3d538d09f)
+
 
 ---
 
@@ -44,7 +46,8 @@ Descripción de la configuración del pipeline en la interfaz de Jenkins. Esta s
 
 #### 3.1.1. Pantallazo: Configuración del Pipeline
 
-![image](https://hackmd.io/_uploads/BkkPPilAR.png)
+![image](https://github.com/user-attachments/assets/8a22764f-5837-4d98-ac61-75145d97baeb)
+
 
 
 #### 3.1.2. Script de Pipeline Utilizado
@@ -136,13 +139,16 @@ pipeline {
 #### 3.1.3. Pantallazos Relevantes de la Configuración del Pipeline
 
 - **Agentes usados**
-![image](https://hackmd.io/_uploads/ryugOse0C.png)
+![image](https://github.com/user-attachments/assets/882bc312-0aae-45e1-bfa3-b6d88d98f156)
+
 
 - **Configuración de los Nodos 1 y 2**
-![image](https://hackmd.io/_uploads/B1LmOjeRC.png)
+![image](https://github.com/user-attachments/assets/53a73a17-2e5d-4d1c-9cee-1488b4457802)
+
 
 - **Configuración de Etapas Paralelas**
-![image](https://hackmd.io/_uploads/Byb2dilCC.png)
+![image](https://github.com/user-attachments/assets/874d4f2c-1864-42b0-80bb-abe918cdf675)
+
 
 ---
 
@@ -154,7 +160,8 @@ Evidencia de la ejecución exitosa del pipeline con los detalles relevantes.
 
 #### 4.1.1. Pantallazos de la Ejecución del Pipeline
 
-![image](https://hackmd.io/_uploads/rJCq6hgRC.png)
+![image](https://github.com/user-attachments/assets/342b0705-e594-46d7-a84c-a816c281db5e)
+
 
 Imagen de ejecución exitosa del pipeline completo.
 
@@ -162,23 +169,29 @@ Imagen de ejecución exitosa del pipeline completo.
 ### 4.2. Resultados Obtenidos por Etapa (Stage)
 
 - **Preparation**:
-![image](https://hackmd.io/_uploads/BkFm5nxAA.png)
+![image](https://github.com/user-attachments/assets/bce14e07-1dd3-45b2-bd69-39953d4a665c)
+
 
 - **Build**: 
     - Resultado del build Exitoso
-![image](https://hackmd.io/_uploads/ryFPchxC0.png)
+![image](https://github.com/user-attachments/assets/2c7cc675-3d2d-461a-a6a5-cf4a00861820)
+
     - Resultado de las pruebas Exitosas
-![image](https://hackmd.io/_uploads/SJnJi2eCA.png)
+![image](https://github.com/user-attachments/assets/169d6ac6-b79a-4b23-8425-03a74f1f4388)
+
     - Resultado de creación de imagen docker
-![image](https://hackmd.io/_uploads/S1Iqhhx00.png)
+![image](https://github.com/user-attachments/assets/d5f34fdb-2108-4667-bc4a-3fb28941d7d2)
+
 
 - **Javadoc**: 
 A continuación se presenta el resultado de la ejecución del javadoc. El código presenta varios warnings cuyo refinamiento no hace parte de los objetivos de esta práctica. 
-    ![image](https://hackmd.io/_uploads/Skcx6hxCA.png)
+    ![image](https://github.com/user-attachments/assets/5670109a-72ab-44b8-a0e8-aec254ac1dac)
+
 
 - **Aplication Deploy:**
 Se presentan los resultados de la prueba de integración.
-    ![image](https://hackmd.io/_uploads/Bk8NRnxC0.png)
+    ![image](https://github.com/user-attachments/assets/5e6b1a01-cf67-438c-8d4f-262464ef138c)
+
 Como se puede apreciar en la imagen, la consulta al despliegue de la aplicación es exitosa.
 
 ---
@@ -190,7 +203,8 @@ Como se puede apreciar en la imagen, la consulta al despliegue de la aplicación
 Evidencia de la ejecución en paralelo de la etapa de Build y la generación del Javadoc.
 
 #### 5.1.1. Pantallazo de Ejecución Paralela
-![image](https://hackmd.io/_uploads/r19du2lA0.png)
+![image](https://github.com/user-attachments/assets/4a918dfa-7418-40f7-bc80-246fcb0506e0)
+
 
 Como se puede apreciar en el grafo de ejecución del pipeline, el build y el javadoc se llevan a cabo de forma concurrente.
 
