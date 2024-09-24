@@ -3,10 +3,6 @@ Gabriel Restrepo Giraldo: A00377741
 
 ---
 
-### Gabriel Restrepo Giraldo
-**Código de Estudiante**: A00377741
-
----
 # Taller de Despliegue y Ejecución del Pipeline en Jenkins
 
 ## 1. Introducción
