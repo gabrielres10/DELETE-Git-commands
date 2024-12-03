@@ -60,3 +60,24 @@ dashboard3:
 dashboard4:
 ![image](https://github.com/user-attachments/assets/79bb256f-01c8-4a97-ba25-367b5e906b87)
 
+alertas con otro error
+![image](https://github.com/user-attachments/assets/89c6e8f7-7ba2-4e0f-8a7d-71ae2e33ead1)
+
+
+dasboardterminal
+![image](https://github.com/user-attachments/assets/92a22376-7956-458f-be45-8f8addb4bc12)
+
+dashboardterminal2
+![image](https://github.com/user-attachments/assets/d717eedd-4ae1-4d17-9218-a3b4ea35ffdb)
+
+dashboarterminal3
+![image](https://github.com/user-attachments/assets/42fc9817-eb54-4cf0-9bdb-dbcb5a305681)
+
+
+ratederroralot
+![image](https://github.com/user-attachments/assets/0377bdd0-85c1-463d-8f72-3c21d1957e7e)
+
+alertaencorreo
+![image](https://github.com/user-attachments/assets/9f6c7b5c-fb6b-475c-bfe4-b221b80a4dcd)
+
+
