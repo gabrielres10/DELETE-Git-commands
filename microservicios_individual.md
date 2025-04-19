@@ -29,3 +29,27 @@ docker:
 ![image](https://github.com/user-attachments/assets/ce0158bb-c863-4656-b704-5bd6139c35dd)
 
 
+cambios en el proyecto:
+
+![image](https://github.com/user-attachments/assets/6563d1fd-e342-4cec-9d93-94df2ac6eb42)
+
+cmd:
+
+application.yml: ![image](https://github.com/user-attachments/assets/afa21fb9-c2cc-43ff-be6c-2a76db051629)
+
+AccountEventSourcingHandler: ![image](https://github.com/user-attachments/assets/d92ce175-b827-4909-8d7f-d1863ea7f15b)
+
+AccountEventStore: ![image](https://github.com/user-attachments/assets/4467fe39-f5bb-49d0-ad00-56719d7d54e2)
+
+query:
+
+application.yml: ![image](https://github.com/user-attachments/assets/92c476c6-dfa0-44ad-845c-1a1956ae55c9)
+EventConsumer: ![image](https://github.com/user-attachments/assets/21184c47-0561-428d-bb75-e1a02928b827)
+AccountEventConsumer: ![image](https://github.com/user-attachments/assets/4a109259-a294-4af0-8316-dff452e79604)
+
+
+
+
+
+
+
