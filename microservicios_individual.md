@@ -25,3 +25,7 @@ ultima foto:
 ![image](https://github.com/user-attachments/assets/034a5c90-24d4-4edd-a206-8f324dea41fd)
 
 
+docker:
+![image](https://github.com/user-attachments/assets/ce0158bb-c863-4656-b704-5bd6139c35dd)
+
+
