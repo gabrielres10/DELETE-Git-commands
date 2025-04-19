@@ -47,9 +47,23 @@ application.yml: ![image](https://github.com/user-attachments/assets/92c476c6-df
 EventConsumer: ![image](https://github.com/user-attachments/assets/21184c47-0561-428d-bb75-e1a02928b827)
 AccountEventConsumer: ![image](https://github.com/user-attachments/assets/4a109259-a294-4af0-8316-dff452e79604)
 
+un proyecto encendido y el otro apagado: ![image](https://github.com/user-attachments/assets/6995128f-bc0c-4f79-883f-369a44ddfd82)
+
+haciendo la prueba de crear, depositar, retirar y eliminar.
+
+![image](https://github.com/user-attachments/assets/f0413489-f1c0-466d-b85b-ec758ac63985)
+![image](https://github.com/user-attachments/assets/8477a7e3-713b-494f-8771-422d809ce36f)
+![image](https://github.com/user-attachments/assets/b7340e21-96f6-4d87-a3b1-9792166d75d0)
+![image](https://github.com/user-attachments/assets/0333d048-e016-430a-ac7e-98de877435c8)
 
 
+luego de encender el servicio:
+![image](https://github.com/user-attachments/assets/28bc910b-b777-4305-840c-bc819d53641a)
 
+
+el get vacío:
+
+![image](https://github.com/user-attachments/assets/77120d3d-8a20-4dd8-b5de-fa6cfaa9f438)
 
 
 
